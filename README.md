@@ -28,7 +28,7 @@
 
 ### 1. 安装
 
-从 [最新 Release](https://github.com/Cobylinweiqi/FakeLoc/releases/latest) 下载
+从 [最新 Release]([https://github.com/GuanHui999/FakeLocGum/releases/tag/1.17.1]) 下载
 `FakeLoc-<版本>-release.apk`，或在 LSPosed 管理器的「在线仓库」里搜 **FakeLoc** 直接装。
 
 包名是 `io.github.cobylinweiqi.fakeloc`。APK 用本项目专用密钥签名，**自己编译出来的包签名不同，
