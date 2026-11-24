@@ -15,7 +15,7 @@ LSPosed + Frida Gum 原生插桩虚拟定位&步数注入模块，基于 Cobylin
 
 ## 使用方法
 ### 1. 安装
-从 [最新 Release](https://github.com/GuanHui999/FakeLocGum/releases/tag/v1.0) 下载
+从 [最新 Release](https://github.com/GuanHui999/FakeLocGum/releases) 下载
 `FakeLocGum-<版本>.release.apk`，或在 LSPosed 管理器的在线仓库搜索 **FakeLocGum** 直接安装。
 
 包名：`io.github.guanhui999.fakelocgum`
